@@ -1,0 +1,16 @@
+[
+    {
+        "image": null,
+        "kernel": [
+            3,
+            3
+        ],
+        "sigma": 0,
+        "fn_name": "gaussian"
+    },
+    {
+        "image": null,
+        "percentage": 90,
+        "fn_name": "percentage_canny"
+    }
+]
